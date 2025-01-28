@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "ckan-extensions"
+version = "0.1.0"
+description = "CKAN extensions and dependencies managed via Poetry"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+numpy = ">=1.26,<2"
+
+uwsgi = "==2.0.21"
+
+Shapely = "==2.0.4"
+
+gevent = "==21.12.0"
+
+ckanext-harvest = { git = "https://github.com/ckan/ckanext-harvest.git", tag = "v1.6.1" }
+
+ckanext-scheming = { git = "https://github.com/ckan/ckanext-scheming.git", tag = "release-2.1.0" }
+
+ckanext-pages = { git = "https://github.com/ckan/ckanext-pages.git", tag = "v0.5.1" }
+
+ckanext-dcat = { git = "https://github.com/ckan/ckanext-dcat.git", tag = "v1.7.0" }
+
+ckanext-dcatde = { git = "https://github.com/GovDataOfficial/ckanext-dcatde.git", tag = "6.8.3" }
+
+ckanext-geoview = { git = "https://github.com/ckan/ckanext-geoview.git", tag = "v0.2.2" }
+
+ckanext-spatial = { git = "https://github.com/ckan/ckanext-spatial.git", tag = "v2.2.0" }
+
+ckanext-showcase = { git = "https://github.com/ckan/ckanext-showcase.git", tag = "v1.7.0" }
+
+ckanext-odp-le-theme = { git = "https://gitlab.opencode.de/connected-urban-twins/cut-leipzig-open-data-portal/ckanext-odp-le-theme.git", rev = "9d377f958a6afc97b0786c2b41561f621f2f234f" }
+
+ckanext-odp-le-harvester = { git = "https://gitlab.opencode.de/connected-urban-twins/cut-leipzig-open-data-portal/ckanext-odp-le-harvester.git", rev = "f92149f9accc223151c240d58522dffde835bf58" }
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
