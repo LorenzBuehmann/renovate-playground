@@ -21,7 +21,7 @@ ckanext-scheming = { git = "https://github.com/ckan/ckanext-scheming.git", tag =
 
 ckanext-pages = { git = "https://github.com/ckan/ckanext-pages.git", tag = "v0.5.1" }
 
-ckanext-dcat = { git = "https://github.com/ckan/ckanext-dcat.git", tag = "v1.7.0" }
+ckanext-dcat = { git = "https://github.com/ckan/ckanext-dcat.git", tag = "v2.2.0" }
 
 ckanext-dcatde = { git = "https://github.com/GovDataOfficial/ckanext-dcatde.git", tag = "6.8.3" }
 
