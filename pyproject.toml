@@ -29,7 +29,7 @@ ckanext-geoview = { git = "https://github.com/ckan/ckanext-geoview.git", tag = "
 
 ckanext-spatial = { git = "https://github.com/ckan/ckanext-spatial.git", tag = "v2.2.0" }
 
-ckanext-showcase = { git = "https://github.com/ckan/ckanext-showcase.git", tag = "v1.7.0" }
+ckanext-showcase = { git = "https://github.com/ckan/ckanext-showcase.git", tag = "v1.8.3" }
 
 ckanext-odp-le-theme = { git = "https://gitlab.opencode.de/connected-urban-twins/cut-leipzig-open-data-portal/ckanext-odp-le-theme.git", rev = "9d377f958a6afc97b0786c2b41561f621f2f234f" }
 
