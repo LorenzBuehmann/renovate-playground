@@ -31,7 +31,7 @@ ckanext-spatial = { git = "https://github.com/ckan/ckanext-spatial.git", tag = "
 
 ckanext-showcase = { git = "https://github.com/ckan/ckanext-showcase.git", tag = "v1.7.0" }
 
-ckanext-odp-le-theme = { git = "https://gitlab.opencode.de/connected-urban-twins/cut-leipzig-open-data-portal/ckanext-odp-le-theme.git", rev = "9d377f958a6afc97b0786c2b41561f621f2f234f" }
+ckanext-odp-le-theme = { git = "https://gitlab.opencode.de/connected-urban-twins/cut-leipzig-open-data-portal/ckanext-odp-le-theme.git", rev = "50e95ab7c2ce569e45b557eb1912a80e0a949544" }
 
 ckanext-odp-le-harvester = { git = "https://gitlab.opencode.de/connected-urban-twins/cut-leipzig-open-data-portal/ckanext-odp-le-harvester.git", rev = "f92149f9accc223151c240d58522dffde835bf58" }
 
