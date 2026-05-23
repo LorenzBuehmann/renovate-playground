@@ -25,7 +25,7 @@ ckanext-dcat = { git = "https://github.com/ckan/ckanext-dcat.git", tag = "v1.7.0
 
 ckanext-dcatde = { git = "https://github.com/GovDataOfficial/ckanext-dcatde.git", tag = "6.8.3" }
 
-ckanext-geoview = { git = "https://github.com/ckan/ckanext-geoview.git", tag = "v0.2.2" }
+ckanext-geoview = { git = "https://github.com/ckan/ckanext-geoview.git", tag = "v0.3.1" }
 
 ckanext-spatial = { git = "https://github.com/ckan/ckanext-spatial.git", tag = "v2.2.0" }
 
